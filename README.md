@@ -24,7 +24,7 @@ pip install -r ./requirments.txt
 
 若链接失效，可通过https://drive.google.com/drive/folders/1cnQHqa8BkVx90-6-UojHnbMB0WhksSRc下载birds数据集
 
-![1](C:\Users\hanabi\Desktop\images\1.png)
+![1](https://github.com/zldscr0/AttnGAN/tree/main/images/1.png)
 
 ##### File Structure
 
@@ -44,7 +44,7 @@ pip install -r ./requirments.txt
 
 训练过程截图：
 
-![2](C:\Users\hanabi\Desktop\images\2.png)
+![2](https://github.com/zldscr0/AttnGAN/tree/main/images/2.png)
 
 **Pretrained Model**
 
@@ -77,7 +77,7 @@ python main.py --cfg cfg/eval_bird.yml --gpu 1
 
 生成图片在`AttnGAN/models/bird_AttnGAN2/example_captions`中：
 
-![3](C:\Users\hanabi\Desktop\images\3.png)
+![3](https://github.com/zldscr0/AttnGAN/tree/main/images/3.png)
 
 ### Reference
 
