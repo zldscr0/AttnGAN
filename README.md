@@ -24,7 +24,7 @@ pip install -r ./requirments.txt
 
 若链接失效，可通过https://drive.google.com/drive/folders/1cnQHqa8BkVx90-6-UojHnbMB0WhksSRc下载birds数据集
 
-![1](https://github.com/zldscr0/AttnGAN/tree/main/images/1.png)
+![1](blob:https://github.com/11ab28e5-d03f-408d-91e4-8269bb725207)
 
 ##### File Structure
 
